@@ -4,7 +4,7 @@
   "description": "极客时间专栏文章 转为 PDF",
   "main": "columnArticleList.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node columnArticleList.js"
   },
   "keywords": [],
   "author": "jjeejj",
