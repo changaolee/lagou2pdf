@@ -33,7 +33,7 @@ module.exports = {
 
 ### 运行
 
-1. `git clone https://github.com/lichangao1826/lagou2pdf.git` 在本地克隆下来
+1. `git clone https://github.com/changaolee/lagou2pdf.git` 在本地克隆下来
 2. 然后执行 `npm i` 安装依赖
 3. 运行主程序 `node columnArticleList.js` 等待一段时间,生成 `PDF` 完成
 
